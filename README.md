@@ -1,1 +1,1 @@
-Implemented using C++ code how to edit a word.
+Implemented using C++ code to edit a word.
